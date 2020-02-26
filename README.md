@@ -1,4 +1,2 @@
-# python_projects
-Εισαγωγή στην Επιστήμη των υπολογιστών.
-Εργασία πρώτου εξαμήνου στη Python.
-Ασκησεις: 2,4,5,7
+# Python Projects
+Some simple Python exercises from my University's course, Introduction to Computer Science.
